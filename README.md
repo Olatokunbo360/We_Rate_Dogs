@@ -1,4 +1,4 @@
-# We_Rate_Dogs
+# Data Analysis on TWitter (Formerly X) We_Rate_Dogs Account
 
 **Overview**
 
