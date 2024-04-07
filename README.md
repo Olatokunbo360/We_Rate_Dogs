@@ -16,13 +16,13 @@ _Data via X API_: This is data gathered through the use of the X API. Access to 
 
 _image-predictions.tsv_: This is a file created from a neural link (see the AIPND-Pre-Trained repository) that can classify dog breeds.
 
-_wrangle_act.ipynb_: Jupyter notebook that contains the Python doe for data analysis
+_wrangle_act.ipynb_: Jupyter notebook that contains the Python code for data analysis
 
-_wrangle_report.pdf_: file that contains a report on how the data was wrangled and analysed
+_wrangle_report.pdf_:PDF file that contains a report on how the data was wrangled and analysed
 
-_act_report.pdf_: file that contains a report on the visualisations and insights gotten from the data analysis exercise.
+_act_report.pdf_: PDF file that contains a report on the visualisations and insights gotten from the data analysis exercise.
 
-_tweet-json.txt_: file that contains all the saved tweets from the X API returned as JSON objects.
+_tweet-json.txt_: txt file that contains all the saved tweets from the X API returned as JSON objects.
 
 _README.md_: This file, providing an overview of the project and instructions for use.
 
