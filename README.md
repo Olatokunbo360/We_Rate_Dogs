@@ -24,6 +24,10 @@ _act_report.pdf_: file that contains a report on the visualisations and insights
 
 _tweet-json.txt_: file that contains all the saved tweets from the X API returned as JSON objects.
 
+_README.md_: This file, providing an overview of the project and instructions for use.
+
+_requirements.txt_: This file provides the list of the Python libraries used for this project.
+
 **Dependencies**
 
 The analysis is conducted using Python programming language and several libraries including:
